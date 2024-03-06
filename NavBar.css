@@ -1,0 +1,238 @@
+.container-nav-1{
+    width: 66%;
+}
+.nav-2{
+    padding: 45px;
+}
+.inputcontainer{
+    margin-left: auto;
+    padding-top: 30px;
+    margin-right: 200px;
+
+}
+input{
+    position: relative;
+    font-weight: bold;
+    width: 35%;
+    height: 31px;
+    border-radius: 10px;
+    border: none;
+    background-color: #F9F9F9;
+}
+.font{
+    position: absolute;
+   margin-top: 40px;
+    color: black;
+
+}
+.wallet{
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+.notification{
+    padding-left: 215px;
+}
+.container-nav-2{
+    padding-left:45px
+}
+.cards{
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+.dot{
+    padding-left: 710px;
+}
+.card{
+    display: flex;
+    gap: 20px;
+    font-family: "Roboto", "sans-serif";
+    padding-left:45px;
+    margin-top: 6px;
+}
+.card1{
+    padding: 20px;
+    background-color: #1B464F;
+    width:197px;
+    height: 102px;
+    border-radius: 7px;
+    color: rgba(192, 185, 185, 0.922);
+}
+.universal{
+    font-size: 0.8em;
+}
+.dot2{
+    padding-left: 120px;
+    color: white;
+}
+.cardvalue{
+    margin-top: 9px;
+    color: white;
+    font-weight: bold;
+}
+.cardvalue-2{
+    font-family: "Roboto", "sans-serif";
+    color: rgba(192, 185, 185, 0.922);
+    padding-top: 40px;
+    font-size: 0.8rem;
+    font-weight: bold;
+}
+.cardvalue12{
+    color:black;
+
+    font-weight: bold;
+}
+.card2{
+    padding: 18px;
+    background-color: #FBFCDD;
+    width:159px;
+    height: 108px;
+    border-radius: 5px;
+    color: grey;
+}
+.goldcard{
+    display: flex;
+}
+.Gold{
+    font-size: 0.8em;
+}
+.cardvalue2{
+    color: black;
+    font-weight: bold;
+    margin-top: -9px;
+}
+.silvercard{
+    display: flex;
+}
+.silver{
+    font-size: 0.8em;
+}
+.card3{
+    padding: 17px;
+    background-color:#F1F0EC;
+    width:160px;
+    height: 110px;
+    border-radius: 5px;
+    color: grey;
+}
+.dot6{
+    color: black;
+    padding-left: 127px;    
+    padding-bottom: 10px;
+}
+.dot3{
+    color: black;
+    padding-left: 117px; 
+   
+}
+.cardvalue-3{
+    font-family: "Roboto", "sans-serif";
+    color: rgba(128, 119, 119, 0.922);
+    padding-top: 47px;
+    font-size: 0.8rem;
+    font-weight: bold;
+}
+.container-5{
+    padding-left:45px;
+    display: flex;
+    padding-top: 19px;
+}
+.Last{
+    font-family: "Roboto", "sans-serif";
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+.dot4{
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: 65px;
+}
+.container-6{
+    margin-top: 2px;
+    margin-left: 46px;
+    border: 1px solid hsl(0, 1%, 45%);
+    border-radius: 10px;
+    width:737px;
+    height: 92px;
+    background-color: white;
+    font-family: "Roboto", "sans-serif";    
+    font-weight: bold;
+    color: #87868B;
+    padding: 16px 20px;
+
+}
+.category{
+    margin-left: -7px;
+}
+.row1{
+    font-size: 13px;
+    display: flex;
+    gap: 147px;
+    color: #7F7E83;
+}
+.row2{
+    margin-top: 13px;
+    display:flex;
+    font-weight: bold;
+    color: black;
+}
+.shopping{
+    margin-left: 183px;
+}
+.value15{
+ margin-left: 132px;
+}
+.value102{
+ margin-left: 146px;
+}
+.amazon{
+    margin-left: 5px;
+}
+.row3{
+    margin:14px 4px;;
+    display:flex;
+    font-weight: bold;
+    color: black;
+
+}
+.Food{
+    margin-left: 184px  ;
+}
+.value5{
+    margin-left: 172px;
+}
+.value28{
+    margin-left: 155px;
+}
+input::placeholder{
+    
+      font-weight: bold;
+      color: black;
+      padding-left: 30px; 
+}
+.MoneyFlow{
+    margin-left: 45px;
+    margin-top: 12px;
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+.Footer{
+    display: flex;
+}
+.July{
+    display: flex;
+    background-color: hsl(0deg 0% 93.7% / 86.4%);
+    padding: 3px 3px;
+    border-radius: 3px;
+    color: hsla(0, 1%, 30%, 0.864);
+    margin-left: auto;
+    margin-right: 79px;
+    margin-top: 16px;
+    font-weight: bold;
+    font-size: 0.7em;
+}
+.jul{
+    margin-left: 4px;
+}
+.calender{
+ margin-top: 1px;
+}

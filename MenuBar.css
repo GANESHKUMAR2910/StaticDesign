@@ -1,0 +1,20 @@
+.container-1{
+    background-color: #F9F9F9;
+    width: 5%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+.Icon-1{
+    padding-top: 40px;
+}
+.Icon-2{
+    padding-top: 50px;
+}
+.Icon-3{
+    padding-top: 30px;
+}
+.Icon-4{
+   padding-top: 180px;
+}
